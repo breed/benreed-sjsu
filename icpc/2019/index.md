@@ -1,0 +1,103 @@
+---
+layout: default
+title: 2019 SJSU competitive programming team
+page_title: 2019 SJSU competitive programming team
+---
+
+we sent 4 teams to the 2019 ICPC programming competition. it was our first year participating in a long time! we participated in the pacific northwest region division 2. (the hardest region in north america!) we started practicing in september 2019 three times a week for one hour. we had three 5 hour practice contests on saturdays. here are the teams:
+
+![ICPC-2019](20191109_202805.jpg){: .team-photo}
+
+## We Require Additional Python (8th out of 86 teams)
+
+<div class="team">
+<div class="member">
+<img class="member-photo" src="april.jpg" alt="april-chao-2019-ICPC">
+<p><strong>April Chao</strong>, Frosh, Computer Science -</p>
+<p>I love climbing, 3D printing, and playing Tetris in my spare time. I'm currently just beginning my endeavors into Computer Science, but some topics that interest me are AI, VR/AR, and machine learning. Furthermore, I'm excited to see what challenges lie ahead in ICPC.</p>
+<p><a href="https://www.linkedin.com/in/april-chao-377991163">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="ryoki.jpg" alt="ryoki-kunii-2019-ICPC">
+<p><strong>Ryoki Kunii</strong>, Sophomore, Applied and Computational Mathematics - Likes to climb and eat good Japanese food.</p>
+<p><a href="https://www.linkedin.com/in/ryoki-kunii/">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="minh.jpg" alt="minh-pham-ICPC-2019">
+<p><strong>Minh Pham</strong>, Junior, Computer Science - Programmer. Writer. Rock climber. Video Gamer. Anime enthusiast.</p>
+<p><a href="https://www.linkedin.com/in/mpham1997/">LinkedIn Profile</a></p>
+</div>
+</div>
+
+## wasu (11th out of 86 - first to solve a problem in division 2)
+
+<div class="team">
+<div class="member">
+<img class="member-photo" src="isita.png" alt="isita-bagayatkar-2019-ICPC">
+<p><strong>Isita Bagayatkar</strong>, Frosh, Computer Science -</p>
+<p>I am passionate about applying various STEM fields to programming problems and thus, continuously work on expanding my skillset. I look forward to working in the field of artificial intelligence in the future.</p>
+<p><a href="https://www.linkedin.com/in/isita-bagayatkar">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="jerry.png" alt="jerry-lee-2019-ICPC">
+<p><strong>Jerry Lee</strong>, Junior, Computer Engineering -</p>
+<p>I like coming up with creative ways to solve problems, even when it doesn't work and becomes a meme later. Some other major-related activities that I am a part of are the intelligent automation systems for robotics and the SJ2 firmware development team. I am most interested in the fields of AI/machine learning and full stack web development (especially with MERN).</p>
+<p><a href="https://www.linkedin.com/in/jerry-lee1999/">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="prerana.jpg" alt="prerana-sunilkumar-2019-ICPC">
+<p><strong>Prerana Sunilkumar</strong>,Frosh, Computer Science - I'm a fast learner with a passion for programming and problem-solving. Coming up with the solution or figuring out the fix to an error in a piece of code that I've been struggling with, is what drives me crazy with joy. I'm also an avid book reader and an animal rights activist :)</p>
+<p><a href="https://www.linkedin.com/in/preranasunilkumar/">LinkedIn Profile</a></p>
+</div>
+</div>
+
+## Spicy Tuna (19th out of 86)
+
+<div class="team">
+<div class="member">
+<img class="member-photo" src="eunice.jpg" alt="eunice-oh-2019-ICPC">
+<p><strong>Eunice Oh</strong>, Freshman, Computer Science - I love to learn and build through coding and seeing how the technology I use operates. I'm currently working to improve my algorithmic thinking. I also like listening to K-Pop, drinking coffee, and dabbling in photography and design.</p>
+<p><a href="https://www.linkedin.com/in/eunice-oh-sj/">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="jonathanS.jpg" alt="jonathan-seang-ICPC-2019">
+<p><strong>Jonathan Seang</strong>, Frosh, Computer Science - I enjoy trying out new things.</p>
+<p><a href="https://www.linkedin.com/in/jonathan-seang-a93b51197/">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="charlotte.jpeg" alt="Charlotte-Zhuang-2019-ICPC">
+<p><strong>Charlotte Zhuang,</strong></p>
+<p>Frosh, Computer Science & Philosophy</p>
+</div>
+</div>
+
+## Glorious (40th out of 86)
+
+<div class="team">
+<div class="member">
+<img class="member-photo" src="khai.jpg" alt="khai-nguyen-2019-ICPC">
+<p><strong>Khai Nguyen</strong>, Frosh, Software Engineering - I like to learn new things related to computer, even mechanical stuff as well as programming stuff. I like to sleep whenever it's possible.</p>
+<p><a href="https://www.linkedin.com/in/kh%E1%BA%A3i-nguy%E1%BB%85n-b59503106/">LinkedIn Profile</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="jonathan.jpg" alt="jonathan-tshimpaka-2019-ICPC">
+<p><strong>Jonathan Tshimpaka</strong>,</p>
+<p>Junior, Computer Science - I am passionate about full stack web development. I have had experience through personal projects and my previous internship. I am always looking for ways to improve my programming skills and learn new technologies. I am currently looking for a summer internship so that I can gain practical experience to complement my coursework.</p>
+<p><a href="https://www.linkedin.com/in/jonathan-tshimpaka/">LinkedIn Profile</a></p>
+<p><a href="https://joekabongo.github.io/portofolio/">Portfolio</a></p>
+</div>
+
+<div class="member">
+<img class="member-photo" src="azael.jpg" alt="azael-zamora-2019-ICPC">
+<p><strong>Azael Zamora</strong>,</p>
+<p>Sophomore, Computer Science - Topics that interest me: cyber security, machine learning, AI, networking, and bioinformatics. I enjoy running, cooking, doing practice coding problems in my spare time. Really excited what is in store for me in the programming team.</p>
+<p><a href="https://www.linkedin.com/in/azael-zamora-a4b90a154/">LinkedIn Profile</a></p>
+</div>
+</div>
