@@ -7,64 +7,75 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <h1>distributed systems</h1>
+    <header>
+        <div class="container">
+            <a href="../index.html" class="site-title">Computer Engineering</a>
+            <nav>
+                <a href="../index.html">Home</a>
+                <a href="../icpc/">ICPC Team</a>
+                <a href="../systems-group/">Systems Group</a>
+                <a href="../distributed-systems/">Distributed Systems</a>
+                <a href="../experimental-courses/">Courses</a>
+                <a href="../contest/">Local Contest</a>
+                <a href="../techcellence/">TECHcellence</a>
+                <a href="../videos/">Videos</a>
+            </nav>
+        </div>
+    </header>
 
-    <nav>
-        <a href="../index.html">Home</a>
-        <a href="../icpc/">ICPC Team</a>
-        <a href="../systems-group/">Systems Group</a>
-        <a href="../distributed-systems/">Distributed Systems</a>
-        <a href="../experimental-courses/">Courses</a>
-        <a href="../contest/">Local Contest</a>
-        <a href="../techcellence/">TECHcellence</a>
-        <a href="../videos/">Videos</a>
-    </nav>
+    <main>
+        <div class="container">
+            <h1 class="page-title">distributed systems</h1>
 
-    <p>my research and teaching focus is operating systems and distributed systems. since i am frequently asked about reading lists and blogs, i will start collecting a list of them here:</p>
+            <p>my research and teaching focus is operating systems and distributed systems. since i am frequently asked about reading lists and blogs, i will start collecting a list of them here:</p>
 
-    <h2>blogs</h2>
-    <p><a href="https://www.the-paper-trail.org/">https://www.the-paper-trail.org/</a></p>
-    <p><a href="https://perspectives.mvdirona.com/">https://perspectives.mvdirona.com/</a></p>
-    <p><a href="https://scalingsystems.com/category/distributed-systems/">https://scalingsystems.com/category/distributed-systems/</a></p>
+            <h2>blogs</h2>
+            <p><a href="https://www.the-paper-trail.org/">https://www.the-paper-trail.org/</a></p>
+            <p><a href="https://perspectives.mvdirona.com/">https://perspectives.mvdirona.com/</a></p>
+            <p><a href="https://scalingsystems.com/category/distributed-systems/">https://scalingsystems.com/category/distributed-systems/</a></p>
 
-    <h2>papers</h2>
+            <h2>papers</h2>
 
-    <h3>from my CS 249 class</h3>
-    <ul>
-        <li>ZooKeeper: <a href="https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf">https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf</a> - i'm an author, but we use ZooKeeper in class projects, so it's a good starting paper.</li>
-        <li>Lamport clock: <a href="https://amturing.acm.org/p558-lamport.pdf">https://amturing.acm.org/p558-lamport.pdf</a> - classic way to think about time in distributed systems.</li>
-        <li>Vector clocks: <a href="https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf">https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf</a> - another classic way to track time with more information.</li>
-        <li>CAP: <a href="https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf">https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf</a> - classic practical way at looking at the trade offs we make in distributed systems.</li>
-        <li>FLP: <a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf</a> - classic paper about the limits of any consensus algorithm.</li>
-        <li>ADB: <a href="https://groups.csail.mit.edu/tds/papers/Attiya/TM-423.pdf">https://groups.csail.mit.edu/tds/papers/Attiya/TM-423.pdf</a> - a very early simple distributed register implementation.</li>
-        <li>Paxos: <a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">https://lamport.azurewebsites.net/pubs/paxos-simple.pdf</a> - a concise (it's not simple) way of describing paxos.</li>
-        <li>BFT: <a href="https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/bft.pdf">https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/bft.pdf</a> - the classic byzantine fault tolerance paper.</li>
-        <li>agreement & execution: <a href="http://www.cs.cornell.edu/lorenzo/papers/sosp03.pdf">http://www.cs.cornell.edu/lorenzo/papers/sosp03.pdf</a> - this paper has a lot of ideas. for me the greatest contribution is highlighting that consensus can be broken into two parts and each part has different properties and requirements.</li>
-        <li>RSM: <a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf</a> - a very complicated way to talk about RSM. i haven't found a better paper.</li>
-        <li>primary/backup: <a href="https://www.cs.cornell.edu/fbs/publications/DSbook.c8.pdf">https://www.cs.cornell.edu/fbs/publications/DSbook.c8.pdf</a> - a very complicated way to talk about primary/backup. again, i haven't found a better paper :'(</li>
-        <li>dynamo: <a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf</a> - an interesting example of relaxing requirements to solve a practical problem. i am bitter than they broke the term "eventual consistency"...</li>
-        <li>chain replication: <a href="https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf">https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf</a> - a very nice example of a simple replication protocol. we implement it in class, and it's a great learning experience for how difficult it is to implement distributed systems. (most students implement it quickly, show that it works, and then their implementation fails when it tries to interoperate with other students.)</li>
-        <li>wait free synchronization: <a href="http://dx.doi.org/10.1145/114005.102808">http://dx.doi.org/10.1145/114005.102808</a> - a nice paper to show how different primitives compose and how you show bounds.</li>
-        <li>concurrent objects: <a href="https://lamport.azurewebsites.net/pubs/interprocess.pdf">https://lamport.azurewebsites.net/pubs/interprocess.pdf</a> - a very complicated paper, but it has important discussions about concurrent modifications.</li>
-        <li>witnesses: <a href="http://www2.cs.uh.edu/~paris/MYPAPERS/Icdcs86.pdf">http://www2.cs.uh.edu/~paris/MYPAPERS/Icdcs86.pdf</a> - a simple idea of dataless replicas that needs to be used more!</li>
-        <li>GFS: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf</a> - a classic large scale distributed file system.</li>
-        <li>big table: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf</a> - a classic large scale distributed key/value store.</li>
-        <li>map/reduce: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf</a> - a classic large scale data processing engine.</li>
-        <li>raft: <a href="https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14">https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14</a> - a relatively recent atomic broadcast algorithm. it brings back some of the concepts of an earlier paper on view stamped replication. people lump it in with paxos, but it has some very important differences, especially to engineers. it also gets you closer to where you want to be: paxos gets a decision made, raft does that and ensures that it is propogated.</li>
-        <li>DHT: <a href="https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/chord.pdf">https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/chord.pdf</a> - classic distributed hash table paper.</li>
-        <li>ceph: <a href="https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf">https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf</a> - a more modern take on DHT that takes into account data center structure.</li>
-    </ul>
+            <h3>from my CS 249 class</h3>
+            <ul>
+                <li>ZooKeeper: <a href="https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf">https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf</a> - i'm an author, but we use ZooKeeper in class projects, so it's a good starting paper.</li>
+                <li>Lamport clock: <a href="https://amturing.acm.org/p558-lamport.pdf">https://amturing.acm.org/p558-lamport.pdf</a> - classic way to think about time in distributed systems.</li>
+                <li>Vector clocks: <a href="https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf">https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf</a> - another classic way to track time with more information.</li>
+                <li>CAP: <a href="https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf">https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf</a> - classic practical way at looking at the trade offs we make in distributed systems.</li>
+                <li>FLP: <a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf</a> - classic paper about the limits of any consensus algorithm.</li>
+                <li>ADB: <a href="https://groups.csail.mit.edu/tds/papers/Attiya/TM-423.pdf">https://groups.csail.mit.edu/tds/papers/Attiya/TM-423.pdf</a> - a very early simple distributed register implementation.</li>
+                <li>Paxos: <a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">https://lamport.azurewebsites.net/pubs/paxos-simple.pdf</a> - a concise (it's not simple) way of describing paxos.</li>
+                <li>BFT: <a href="https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/bft.pdf">https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/bft.pdf</a> - the classic byzantine fault tolerance paper.</li>
+                <li>agreement & execution: <a href="http://www.cs.cornell.edu/lorenzo/papers/sosp03.pdf">http://www.cs.cornell.edu/lorenzo/papers/sosp03.pdf</a> - this paper has a lot of ideas. for me the greatest contribution is highlighting that consensus can be broken into two parts and each part has different properties and requirements.</li>
+                <li>RSM: <a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf</a> - a very complicated way to talk about RSM. i haven't found a better paper.</li>
+                <li>primary/backup: <a href="https://www.cs.cornell.edu/fbs/publications/DSbook.c8.pdf">https://www.cs.cornell.edu/fbs/publications/DSbook.c8.pdf</a> - a very complicated way to talk about primary/backup. again, i haven't found a better paper :'(</li>
+                <li>dynamo: <a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf</a> - an interesting example of relaxing requirements to solve a practical problem. i am bitter than they broke the term "eventual consistency"...</li>
+                <li>chain replication: <a href="https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf">https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf</a> - a very nice example of a simple replication protocol. we implement it in class, and it's a great learning experience for how difficult it is to implement distributed systems. (most students implement it quickly, show that it works, and then their implementation fails when it tries to interoperate with other students.)</li>
+                <li>wait free synchronization: <a href="http://dx.doi.org/10.1145/114005.102808">http://dx.doi.org/10.1145/114005.102808</a> - a nice paper to show how different primitives compose and how you show bounds.</li>
+                <li>concurrent objects: <a href="https://lamport.azurewebsites.net/pubs/interprocess.pdf">https://lamport.azurewebsites.net/pubs/interprocess.pdf</a> - a very complicated paper, but it has important discussions about concurrent modifications.</li>
+                <li>witnesses: <a href="http://www2.cs.uh.edu/~paris/MYPAPERS/Icdcs86.pdf">http://www2.cs.uh.edu/~paris/MYPAPERS/Icdcs86.pdf</a> - a simple idea of dataless replicas that needs to be used more!</li>
+                <li>GFS: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf</a> - a classic large scale distributed file system.</li>
+                <li>big table: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf</a> - a classic large scale distributed key/value store.</li>
+                <li>map/reduce: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf</a> - a classic large scale data processing engine.</li>
+                <li>raft: <a href="https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14">https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14</a> - a relatively recent atomic broadcast algorithm. it brings back some of the concepts of an earlier paper on view stamped replication. people lump it in with paxos, but it has some very important differences, especially to engineers. it also gets you closer to where you want to be: paxos gets a decision made, raft does that and ensures that it is propogated.</li>
+                <li>DHT: <a href="https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/chord.pdf">https://www.cs.princeton.edu/courses/archive/fall17/cos418/papers/chord.pdf</a> - classic distributed hash table paper.</li>
+                <li>ceph: <a href="https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf">https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf</a> - a more modern take on DHT that takes into account data center structure.</li>
+            </ul>
 
-    <h3>previous CS 249 papers</h3>
-    <ul>
-        <li>flexible quorum systems: <a href="https://arxiv.org/pdf/1608.06696v1.pdf">https://arxiv.org/pdf/1608.06696v1.pdf</a> - a nice, if impractical, way of lookign at quorum systems. it gives great insight into the different phases of some consensus algorithms.</li>
-        <li>Active disk paxos: <a href="https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf">https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf</a> - an interesting way of using disks with a little extra functionality to achieve consensus.</li>
-        <li>virtual synchrony: <a href="https://www.cs.cornell.edu/home/rvr/sys/p123-birman.pdf">https://www.cs.cornell.edu/home/rvr/sys/p123-birman.pdf</a> - a classic paper of using causality in distributed systems.</li>
-        <li>Paxos: <a href="https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf">https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf</a> - this is the real paxos paper! it is one of my favorite papers to read. it's the first one. it has a lot of ideas that get lost in later paxos work.</li>
-    </ul>
+            <h3>previous CS 249 papers</h3>
+            <ul>
+                <li>flexible quorum systems: <a href="https://arxiv.org/pdf/1608.06696v1.pdf">https://arxiv.org/pdf/1608.06696v1.pdf</a> - a nice, if impractical, way of lookign at quorum systems. it gives great insight into the different phases of some consensus algorithms.</li>
+                <li>Active disk paxos: <a href="https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf">https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf</a> - an interesting way of using disks with a little extra functionality to achieve consensus.</li>
+                <li>virtual synchrony: <a href="https://www.cs.cornell.edu/home/rvr/sys/p123-birman.pdf">https://www.cs.cornell.edu/home/rvr/sys/p123-birman.pdf</a> - a classic paper of using causality in distributed systems.</li>
+                <li>Paxos: <a href="https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf">https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf</a> - this is the real paxos paper! it is one of my favorite papers to read. it's the first one. it has a lot of ideas that get lost in later paxos work.</li>
+            </ul>
+        </div>
+    </main>
 
     <footer>
-        <p>One Washington Square, San Jose, CA 95192 | 408-924-1000</p>
+        <div class="container">
+            <p>One Washington Square, San Jose, CA 95192 | 408-924-1000</p>
+        </div>
     </footer>
 </body>
 </html>
