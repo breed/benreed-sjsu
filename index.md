@@ -9,7 +9,7 @@ hero_subtitle: San Jose State University
 <div class="intro" markdown="1">
 <img class="headshot" src="pics/headshot.jpg" alt="bald guy in a t-shirt">
 
-Prof Dude in Computer Engineering Department
+**Prof Dude in Computer Engineering Department**
 
 i work in distributed systems, cloud, big data, networking, storage, and operating systems. i often get asked about [reading lists and blogs, so i started collecting some](distributed-systems/). i love working with grads/undergrads on projects in the area of operating systems and distributed systems. if you want to work with me, please watch <https://www.usenix.org/conference/atc19/presentation/keynote> a great talk by remzi arpaci-dusseau. it has great advice for doing research. you can find out more information about projects that we are working on at [http://www.sjsu.edu/people/ben.reed/systems-group/](systems-group/) (i do not work with students during the summer. internships are too important. if you can't get an internship, try engaging with an open source project. both are more valuable to you than working with a professor during the summer.) i'm also looking for good undergraduate programmers to participate [in our programming team](icpc/)!
 
