@@ -67,5 +67,8 @@
             });
         })();
     </script>
+    {% if page.mastodon_feed %}
+    <script src="{{ '/js/mastodon-timeline.js' | relative_url }}"></script>
+    {% endif %}
 </body>
 </html>

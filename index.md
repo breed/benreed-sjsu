@@ -4,7 +4,10 @@ title: Reed, Ben | San Jose State University
 hero: true
 hero_title: Ben Reed
 hero_subtitle: San Jose State University
+mastodon_feed: true
 ---
+
+<div id="rss-container"></div>
 
 <div class="intro" markdown="1">
 <img class="headshot" src="pics/headshot.jpg" alt="bald guy in a t-shirt">
