@@ -279,6 +279,72 @@ li {
     text-decoration: none;
 }
 
+.profile-header {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.headshot {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.profile-header .contact-info {
+    flex: 1;
+}
+
+.team-photo {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.member-photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.member-card {
+    background-color: var(--section-bg);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.member-card::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.member-card h4 {
+    color: var(--sjsu-blue);
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.member-card p {
+    margin-bottom: 10px;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
 footer {
     margin-top: 40px;
     padding-top: 20px;
@@ -311,5 +377,25 @@ footer {
 
     .year-nav {
         flex-direction: column;
+    }
+
+    .profile-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .headshot {
+        width: 150px;
+    }
+
+    .member-photo {
+        float: none;
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
     }
 }
