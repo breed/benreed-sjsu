@@ -1,10 +1,11 @@
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700&display=swap');
 
-/* Dune Rise font - add DuneRise.ttf to /fonts/ folder if available */
+/* Dune Rise font */
 @font-face {
     font-family: 'Dune Rise';
-    src: url('/fonts/DuneRise.ttf') format('truetype');
+    src: url('/fonts/Dune_Rise.otf') format('opentype'),
+         url('/fonts/Dune_Rise.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
