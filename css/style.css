@@ -314,6 +314,39 @@ footer p {
     margin-bottom: 40px;
 }
 
+/* Mastodon Feed Box */
+#rss-container {
+    float: right;
+    width: 300px;
+    max-height: 400px;
+    overflow-y: auto;
+    margin: 0 0 20px 20px;
+    padding: 15px;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-left: 4px solid #0055a2;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+#rss-container:empty {
+    display: none;
+}
+
+#rss-container article {
+    margin-bottom: 10px;
+}
+
+#rss-container hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+}
+
+#rss-container a {
+    color: #0055a2;
+}
+
 /* Page Title for Sub-pages */
 .page-title {
     font-family: 'Montserrat', sans-serif;
@@ -393,6 +426,13 @@ footer p {
 
     .contact-grid {
         grid-template-columns: 1fr;
+    }
+
+    #rss-container {
+        float: none;
+        width: 100%;
+        max-height: 300px;
+        margin: 0 0 20px 0;
     }
 }
 

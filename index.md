@@ -7,9 +7,8 @@ hero_subtitle: San Jose State University
 mastodon_feed: true
 ---
 
-<div id="rss-container"></div>
-
 <div class="intro" markdown="1">
+<div id="rss-container"></div>
 <img class="headshot" src="pics/headshot.jpg" alt="bald guy in a t-shirt">
 
 **Prof Dude in Computer Engineering Department**
