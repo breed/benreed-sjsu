@@ -6,7 +6,7 @@ hero_title: Ben Reed
 hero_subtitle: San Jose State University
 ---
 
-<div class="intro">
+<div class="intro" markdown="1">
 <img class="headshot" src="pics/headshot.jpg" alt="bald guy in a t-shirt">
 
 Prof Dude in Computer Engineering Department
