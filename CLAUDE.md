@@ -11,4 +11,4 @@ The domain of the page is ben.homeofcode.com
 # Content
 
 - the original content is from https://www.sjsu.edu/people/ben.reed/
-- once the original content is migrated, move to a cleaner more professional style
+- preserve the original content exactly as it is
