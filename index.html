@@ -4,184 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ben Reed - Professor, Computer Engineering - San José State University</title>
-    <style>
-        :root {
-            --sjsu-blue: #0055a2;
-            --sjsu-gold: #e5a823;
-            --text-color: #333;
-            --bg-color: #fff;
-            --section-bg: #f8f9fa;
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-            line-height: 1.6;
-            color: var(--text-color);
-            background-color: var(--bg-color);
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        header {
-            border-bottom: 3px solid var(--sjsu-blue);
-            padding-bottom: 20px;
-            margin-bottom: 30px;
-        }
-
-        h1 {
-            color: var(--sjsu-blue);
-            font-size: 2.2em;
-            margin-bottom: 5px;
-        }
-
-        .title {
-            font-size: 1.2em;
-            color: #666;
-        }
-
-        .department {
-            color: var(--sjsu-gold);
-            font-weight: 600;
-        }
-
-        section {
-            margin-bottom: 30px;
-        }
-
-        h2 {
-            color: var(--sjsu-blue);
-            font-size: 1.4em;
-            border-bottom: 2px solid var(--sjsu-gold);
-            padding-bottom: 5px;
-            margin-bottom: 15px;
-        }
-
-        .contact-info {
-            background-color: var(--section-bg);
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        .contact-info ul {
-            list-style: none;
-        }
-
-        .contact-info li {
-            margin-bottom: 8px;
-        }
-
-        .contact-info a {
-            color: var(--sjsu-blue);
-            text-decoration: none;
-        }
-
-        .contact-info a:hover {
-            text-decoration: underline;
-        }
-
-        .office-hours {
-            background-color: var(--section-bg);
-            padding: 20px;
-            border-radius: 8px;
-        }
-
-        .office-hours ul {
-            list-style: none;
-        }
-
-        .office-hours li {
-            margin-bottom: 8px;
-        }
-
-        .education ul {
-            list-style: none;
-        }
-
-        .education li {
-            margin-bottom: 10px;
-            padding-left: 20px;
-            position: relative;
-        }
-
-        .education li::before {
-            content: "•";
-            color: var(--sjsu-gold);
-            font-weight: bold;
-            position: absolute;
-            left: 0;
-        }
-
-        .programs ul {
-            list-style: none;
-        }
-
-        .programs li {
-            margin-bottom: 8px;
-            padding-left: 20px;
-            position: relative;
-        }
-
-        .programs li::before {
-            content: "→";
-            color: var(--sjsu-blue);
-            position: absolute;
-            left: 0;
-        }
-
-        .social-links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-        }
-
-        .social-links a {
-            color: var(--sjsu-blue);
-            text-decoration: none;
-            padding: 8px 15px;
-            border: 1px solid var(--sjsu-blue);
-            border-radius: 5px;
-            transition: all 0.2s;
-        }
-
-        .social-links a:hover {
-            background-color: var(--sjsu-blue);
-            color: white;
-        }
-
-        footer {
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            text-align: center;
-            color: #666;
-            font-size: 0.9em;
-        }
-
-        @media (max-width: 600px) {
-            body {
-                padding: 15px;
-            }
-
-            h1 {
-                font-size: 1.8em;
-            }
-
-            .social-links {
-                flex-direction: column;
-            }
-
-            .social-links a {
-                text-align: center;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
@@ -190,67 +13,84 @@
         <p class="department">Department of Computer Engineering, San José State University</p>
     </header>
 
-    <section class="contact-info">
-        <h2>Contact Information</h2>
+    <nav>
         <ul>
-            <li><strong>Email:</strong> <a href="mailto:ben.reed@sjsu.edu">ben.reed@sjsu.edu</a></li>
-            <li><strong>Phone:</strong> 408-924-5174</li>
-            <li><strong>Office:</strong> ENG 277</li>
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="icpc/">ICPC Team</a></li>
+            <li><a href="systems-group/">Systems Group</a></li>
+            <li><a href="distributed-systems/">Distributed Systems</a></li>
+            <li><a href="experimental-courses/">Courses</a></li>
+            <li><a href="contest/">Local Contest</a></li>
+            <li><a href="techcellence/">TECHcellence</a></li>
+            <li><a href="videos/">Videos</a></li>
+            <li><a href="docs/cv.pdf">CV</a></li>
         </ul>
-    </section>
+    </nav>
 
-    <section class="office-hours">
-        <h2>Office Hours</h2>
-        <p><em>(Ending December 5, 2025)</em></p>
-        <ul>
-            <li><strong>Tuesday-Thursday:</strong> 1:15 - 2:30 PM</li>
-            <li><strong>Monday:</strong> 1:15 - 2:00 PM</li>
-            <li><strong>Friday:</strong> 2:00 - 3:00 PM</li>
-        </ul>
-        <p style="margin-top: 15px;"><strong>Research Lab Hours</strong> (ENG 277 or 278):</p>
-        <ul>
-            <li><strong>Tuesdays:</strong> 2:00 - 6:00 PM</li>
-            <li><strong>Fridays:</strong> 12:00 - 4:00 PM</li>
-        </ul>
-    </section>
+    <main>
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:ben.reed@sjsu.edu">ben.reed@sjsu.edu</a></li>
+                <li><strong>Phone:</strong> 408-924-5174</li>
+                <li><strong>Office:</strong> ENG 277</li>
+            </ul>
+        </section>
 
-    <section>
-        <h2>Research Interests</h2>
-        <p>My research focuses on <strong>distributed systems, cloud computing, big data, networking, storage, and operating systems</strong>. I actively mentor graduate and undergraduate students on projects in these areas.</p>
-    </section>
+        <section class="card">
+            <h2>Office Hours</h2>
+            <p><em>(Ending December 5, 2025)</em></p>
+            <ul>
+                <li><strong>Tuesday-Thursday:</strong> 1:15 - 2:30 PM</li>
+                <li><strong>Monday:</strong> 1:15 - 2:00 PM</li>
+                <li><strong>Friday:</strong> 2:00 - 3:00 PM</li>
+            </ul>
+            <p style="margin-top: 15px;"><strong>Research Lab Hours</strong> (ENG 277 or 278):</p>
+            <ul>
+                <li><strong>Tuesdays:</strong> 2:00 - 6:00 PM</li>
+                <li><strong>Fridays:</strong> 12:00 - 4:00 PM</li>
+            </ul>
+        </section>
 
-    <section class="education">
-        <h2>Education</h2>
-        <ul>
-            <li><strong>Ph.D. in Computer Science</strong> (2000)<br>University of California, Santa Cruz</li>
-            <li><strong>M.S. in Computer Science</strong> (1993)<br>DePaul University</li>
-            <li><strong>B.A. in Mathematics</strong> with Computer Systems minor (1987)<br>Miami University</li>
-        </ul>
-    </section>
+        <section>
+            <h2>Research Interests</h2>
+            <p>My research focuses on <strong>distributed systems, cloud computing, big data, networking, storage, and operating systems</strong>. I actively mentor graduate and undergraduate students on projects in these areas.</p>
+            <p><a href="docs/Research%20Statement.pdf">Read my Research Statement (PDF)</a></p>
+        </section>
 
-    <section class="programs">
-        <h2>Programs &amp; Leadership</h2>
-        <ul>
-            <li><strong>SJSU ICPC Programming Team</strong> - Coaching competitive programming</li>
-            <li><strong>SJSU CMPE Systems Group</strong> - Research collaboration</li>
-            <li><strong>TECHcellence</strong> - Partnership with Milpitas Unified School District</li>
-        </ul>
-    </section>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Ph.D. in Computer Science</strong> (2000) - University of California, Santa Cruz</li>
+                <li><strong>M.S. in Computer Science</strong> (1993) - DePaul University</li>
+                <li><strong>B.A. in Mathematics</strong> with Computer Systems minor (1987) - Miami University</li>
+            </ul>
+        </section>
 
-    <section>
-        <h2>Connect</h2>
-        <div class="social-links">
-            <a href="https://twitter.com/benTheSpartan" target="_blank" rel="noopener">Twitter</a>
-            <a href="https://mastodon.social/@benTheSpartan" target="_blank" rel="noopener">Mastodon</a>
-            <a href="https://www.threads.net/@benthespartan" target="_blank" rel="noopener">Threads</a>
-            <a href="https://www.linkedin.com/in/benreed" target="_blank" rel="noopener">LinkedIn</a>
-            <a href="https://discord.gg/sjsu" target="_blank" rel="noopener">Discord</a>
-        </div>
-    </section>
+        <section>
+            <h2>Programs &amp; Leadership</h2>
+            <ul>
+                <li><a href="icpc/"><strong>SJSU ICPC Programming Team</strong></a> - Coaching competitive programming</li>
+                <li><a href="systems-group/"><strong>SJSU CMPE Systems Group</strong></a> - Research collaboration</li>
+                <li><a href="techcellence/"><strong>TECHcellence</strong></a> - Partnership with Milpitas Unified School District</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Connect</h2>
+            <div class="social-links">
+                <a href="https://twitter.com/benTheSpartan" target="_blank" rel="noopener">Twitter</a>
+                <a href="https://mastodon.social/@benTheSpartan" target="_blank" rel="noopener">Mastodon</a>
+                <a href="https://www.threads.net/@benthespartan" target="_blank" rel="noopener">Threads</a>
+                <a href="https://www.linkedin.com/in/benreed" target="_blank" rel="noopener">LinkedIn</a>
+                <a href="https://discord.gg/sjsu" target="_blank" rel="noopener">Discord</a>
+            </div>
+        </section>
+    </main>
 
     <footer>
         <p>&copy; 2025 Ben Reed | San José State University</p>
-        <p>This page is hosted on <a href="https://pages.github.com/">GitHub Pages</a></p>
+        <p>One Washington Square, San Jose, CA 95192 | 408-924-1000</p>
     </footer>
 </body>
 </html>
