@@ -75,9 +75,6 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #0055a2 0%, #003d7a 100%);
-    color: #fff;
-    padding: 25px 0;
     text-align: center;
 }
 
@@ -86,14 +83,14 @@ nav a:hover {
     font-size: 1.8rem;
     font-weight: 700;
     margin-bottom: 5px;
-    color: #fff;
+    color: #0055a2;
 }
 
 .hero .subtitle {
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     font-weight: 400;
-    opacity: 0.95;
+    color: #333;
 }
 
 /* Main Content */
@@ -327,10 +324,6 @@ footer p {
         display: block;
         margin: 10px 0;
         margin-left: 0;
-    }
-
-    .hero {
-        padding: 20px 0;
     }
 
     .hero h1 {
