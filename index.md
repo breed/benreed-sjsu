@@ -31,14 +31,22 @@ you can also watch [some videos that i have found interesting in terms of operat
 <p>Preferred: <a href="tel:408 924-5174">408 924-5174</a></p>
 </div>
 <div class="contact-item">
-<h3>Office Hours</h3>
+<h3>Office</h3>
 <p>ENG 277</p>
 </div>
 </div>
 
-**Tuesday, 2025-12-02 : 1:15-2:30<br>Wedsday, 2025-12-03 : 1:15-2:30<br>Thursday, 2025-12-04 : 1:15-2:30<br>Monday, 2025-12-08 : 1:15-2:30<br>Friday, 2025-12-12 : 2-3<br>Monday, 2025-12-15 : 1-2<br>Wednesday, 2025-12-17 : 12-1**
+### Office hours
 
-**Research Lab Hours (either ENG 277 or 278) ending 2025-12-05:<br>Tuesdays: 2-6<br>Fridays 12-4**
+* mon,wed: 1:30-2:30
+* tues: 3-4:15
+
+### systems research lab hours (in ENG 278 starting Jan 29th)
+
+* tues: 1-4
+* fri: 10-4
+
+
 
 ## Social Media
 
