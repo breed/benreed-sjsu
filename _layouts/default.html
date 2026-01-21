@@ -16,9 +16,9 @@
                 <a href="{{ '/systems-group/' | relative_url }}">Systems Group</a>
                 <a href="{{ '/distributed-systems/' | relative_url }}">Distributed Systems</a>
                 <a href="{{ '/experimental-courses/' | relative_url }}">Courses</a>
-                <a href="{{ '/contest/' | relative_url }}">Local Contest</a>
                 <a href="{{ '/videos/' | relative_url }}">Videos</a>
             </nav>
+            <button id="font-toggle" class="font-toggle-btn">Awesomize</button>
         </div>
     </header>
 
@@ -46,5 +46,25 @@
             <p>One Washington Square, San Jose, CA 95192 | 408-924-1000</p>
         </div>
     </footer>
+
+    <script>
+        (function() {
+            const btn = document.getElementById('font-toggle');
+            const body = document.body;
+
+            // Check localStorage for saved preference
+            if (localStorage.getItem('awesomeFont') === 'true') {
+                body.classList.add('awesome-font');
+                btn.textContent = 'Boringize';
+            }
+
+            btn.addEventListener('click', function() {
+                body.classList.toggle('awesome-font');
+                const isAwesome = body.classList.contains('awesome-font');
+                btn.textContent = isAwesome ? 'Boringize' : 'Awesomize';
+                localStorage.setItem('awesomeFont', isAwesome);
+            });
+        })();
+    </script>
 </body>
 </html>

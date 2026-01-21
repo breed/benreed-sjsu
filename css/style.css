@@ -1,5 +1,13 @@
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700&display=swap');
+
+/* Dune Rise font - add DuneRise.ttf to /fonts/ folder if available */
+@font-face {
+    font-family: 'Dune Rise';
+    src: url('/fonts/DuneRise.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Reset and Base */
 * {
@@ -71,6 +79,44 @@ nav a {
 nav a:hover {
     opacity: 0.8;
     text-decoration: none;
+}
+
+/* Font Toggle Button */
+.font-toggle-btn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    background: #fff;
+    color: #0055a2;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    margin-left: 15px;
+}
+
+.font-toggle-btn:hover {
+    background: #e0e0e0;
+}
+
+.font-toggle-btn:active {
+    transform: scale(0.95);
+}
+
+/* Awesome Font Mode */
+body.awesome-font {
+    font-family: 'Dune Rise', 'Orbitron', sans-serif;
+}
+
+body.awesome-font h1,
+body.awesome-font h2,
+body.awesome-font h3,
+body.awesome-font h4,
+body.awesome-font .site-title,
+body.awesome-font nav a,
+body.awesome-font .font-toggle-btn {
+    font-family: 'Dune Rise', 'Orbitron', sans-serif;
 }
 
 /* Hero Section */
