@@ -1,0 +1,7 @@
+title: Ben Reed - SJSU
+description: Professor of Computer Engineering at San José State University
+url: "https://ben.homeofcode.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
