@@ -1,0 +1,64 @@
+# Claude Code Session History
+# Date: 2026-01-21
+# Project: ben.homeofcode.com (Ben Reed's SJSU homepage)
+
+## Session Summary
+
+This session continued from a previous conversation where the site was migrated from
+https://www.sjsu.edu/people/ben.reed/ to GitHub Pages, converted to Jekyll with Markdown,
+and styled to match a Google Sites academic theme.
+
+## Prompts and Changes Made
+
+1. "the links in the first paragraph are not rendering correctly"
+   - Fixed: Added markdown="1" attribute to <div class="intro"> in index.md
+   - Kramdown doesn't parse Markdown inside HTML blocks by default
+
+2. "make the hero title and subtitle much shorter"
+   - Reduced hero section padding: 80px → 25px
+   - Reduced title font: 3.5rem → 1.8rem
+   - Reduced subtitle font: 1.3rem → 1rem
+   - Updated responsive breakpoints accordingly
+
+3. "remove the padding and blue background from hero title"
+   - Removed background gradient and padding from .hero
+   - Changed title color to blue (#0055a2)
+   - Changed subtitle color to dark gray (#333)
+
+4. "add a button to the header to flip between the dune rise font for all the pages and the normal font. Title the button 'Awesomize' to switch to dune rise and 'Boringize' to switch back to normal"
+   - Added font toggle button to header in _layouts/default.html
+   - Added JavaScript to toggle 'awesome-font' class on body
+   - Uses localStorage to persist preference
+   - Added .font-toggle-btn and .awesome-font CSS classes
+
+5. "add the dune rise font file"
+   - User added Dune_Rise.ttf and Dune_Rise.otf to /fonts/
+   - Updated CSS @font-face to reference correct filenames
+
+6. "use the Orbitron font instead"
+   - Switched to Orbitron from Google Fonts
+   - Removed Dune Rise font files
+   - Updated .awesome-font classes to use 'Orbitron', sans-serif
+
+7. "make Computer Engineering in the header link to https://www.sjsu.edu/cmpe/index.php"
+   - Updated site-title link in _layouts/default.html
+
+8. "make my page icon the logo.png in pics"
+   - Added favicon link in <head>: <link rel="icon" type="image/png" href="/pics/logo.png">
+
+## Key Files Modified
+
+- _layouts/default.html - Shared layout with header, nav, footer, font toggle
+- css/style.css - Theme styles, font toggle button, Orbitron font
+- index.md - Fixed markdown="1" on intro div
+
+## Git Commits (in order)
+
+1. Fix Markdown rendering inside intro div
+2. Make hero section more compact
+3. Remove hero padding and blue background
+4. Add Awesomize/Boringize font toggle button
+5. Add Dune Rise font files and fix path
+6. Use Orbitron font instead of Dune Rise
+7. Link Computer Engineering header to SJSU CMPE page
+8. Add logo.png as favicon
