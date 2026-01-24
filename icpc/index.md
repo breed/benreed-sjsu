@@ -6,7 +6,7 @@ page_title: SJSU ICPC programming team
 
 the [ICPC](https://icpc.global/) programming competition is a very old world-wide programming competition for undergraduates. it was around when i went to school! i was on our school's programming team. (yay miami university!) we didn't do that great, but it was a fun experience, and i learned a lot of programming techniques.
 
-we have competed for years now, after a long break. check out the [2025 teams](2025/), [2022 teams](2022/), [2021 teams](2021/), [2020 teams](2020/) and the [2019 teams](2019/). we also have yearly local contests [2025 local contest](../contest/).
+we have competed for years now, after a long break. check out the [2025 teams](2025/), [2024 teams](2024/), [2023 teams](2023/), [2022 teams](2022/), [2021 teams](2021/), [2020 teams](2020/) and the [2019 teams](2019/). we also have yearly local contests [2025 local contest](../contest/).
 
 we are always recruiting new members! they key requirement is that you are an undergraduate.
 
