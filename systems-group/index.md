@@ -1,10 +1,10 @@
 ---
 layout: default
-title: SJSU CS Systems Group
-page_title: SJSU CS Systems Group
+title: Reed Systems Group
+page_title: Reed Systems Group
 ---
 
-this is a brief description of the projects going on in the systems group in the computer science department at SJSU. please contact [ben reed](../) if you would like to get involved. some students work on projects for a master's project or capstone project, while others get involved just for fun.
+this is a brief description of the projects going on in the systems group in the computer engineering department at SJSU. please contact [ben reed](../) if you would like to get involved. some students work on projects for a master's project or capstone project, while others get involved just for fun.
 
 i highly recommend watching this video from julia evans (that i found on mastodon :) ) <https://www.youtube.com/watch?v=30YWsGDr8mA> . she presents a lot of ideas that align with my approach for working on hard problems.
 
