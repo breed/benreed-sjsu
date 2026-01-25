@@ -57,7 +57,7 @@ header .container {
 }
 
 .site-title:hover {
-    opacity: 0.9;
+    opacity: 0.7;
 }
 
 /* Navigation */
@@ -109,7 +109,7 @@ nav a:hover {
 /* Awesome Font Mode */
 body.awesome-font {
     font-family: 'Dune Rise', sans-serif;
-    font-size: 0.9em;
+    font-size: 0.7em;
 }
 
 body.awesome-font h1,
