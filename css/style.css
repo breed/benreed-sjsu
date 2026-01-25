@@ -109,6 +109,7 @@ nav a:hover {
 /* Awesome Font Mode */
 body.awesome-font {
     font-family: 'Dune Rise', sans-serif;
+    font-size: 0.9em;
 }
 
 body.awesome-font h1,
