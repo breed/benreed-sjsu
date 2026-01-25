@@ -126,7 +126,13 @@ body.awesome-font .font-toggle-btn {
 
 body.awesome-font p,
 body.awesome-font li {
-    font-size: 0.5rem;
+    font-size: 0.8rem;
+}
+
+body.awesome-font #rss-container,
+body.awesome-font #rss-container p,
+body.awesome-font #rss-container li {
+    font-size: 0.6rem;
 }
 
 /* Hero Section */
