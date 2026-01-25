@@ -111,7 +111,7 @@ nav a:hover {
 /* Awesome Font Mode */
 body.awesome-font {
     font-family: 'Dune Rise', sans-serif;
-    font-size: 0.5em;
+    font-size: 0.45em;
 }
 
 body.awesome-font h1,
@@ -195,7 +195,7 @@ h4 {
 
 p {
     margin-bottom: 18px;
-    font-size: 1.25rem;
+    font-size: 1.3rem;
 }
 
 /* Links */
@@ -217,7 +217,7 @@ ul, ol {
 
 li {
     margin-bottom: 10px;
-    font-size: 1.25rem;
+    font-size: 1.3rem;
 }
 
 /* Images */
@@ -357,6 +357,11 @@ footer p {
 
 #rss-container a {
     color: #0055a2;
+}
+
+#rss-container p,
+#rss-container li {
+    font-size: 0.9rem;
 }
 
 /* Page Title for Sub-pages */
