@@ -102,7 +102,7 @@ team trainers: Eliot Hall and Aarya Chamkeri
 
 <div class="member">
 <p><strong>Tung Ba Le</strong></p>
-<p>My hobbies: Chess,Billiard and SwimmingA fun fact: Bubble tea is my favourite drink<br>Data Science - Freshmen</p>
+<p>My hobbies: Chess,Billiard and Swimming. A fun fact: Bubble tea is my favourite drink<br>Data Science - Freshmen</p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/ba-tung-le-781383341">https://www.linkedin.com/in/ba-tung-le-781383341</a></p>
 </div>
 </div>

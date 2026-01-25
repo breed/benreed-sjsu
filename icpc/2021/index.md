@@ -8,7 +8,7 @@ we sent 5 teams to the 2021 ICPC programming competition. because of COVID, the 
 
 ## division 1 teams
 
-### SJSU top team: very cool icpc team (21th out of 62 teams)
+### SJSU top team: very cool icpc team (21st out of 62 teams)
 
 <div class="team">
 <div class="member">
@@ -24,7 +24,7 @@ we sent 5 teams to the 2021 ICPC programming competition. because of COVID, the 
 </div>
 </div>
 
-### rock?ea (33th out of 62)
+### rock?ea (33rd out of 62)
 
 <div class="team">
 <div class="member">

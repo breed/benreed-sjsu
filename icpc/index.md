@@ -8,7 +8,7 @@ the [ICPC](https://icpc.global/) programming competition is a very old world-wid
 
 we have competed for years now, after a long break. check out the [2025 teams](2025/), [2024 teams](2024/), [2023 teams](2023/), [2022 teams](2022/), [2021 teams](2021/), [2020 teams](2020/) and the [2019 teams](2019/). we also have yearly local contests [2025 local contest](../contest/).
 
-we are always recruiting new members! they key requirement is that you are an undergraduate.
+we are always recruiting new members! the key requirement is that you are an undergraduate.
 
 ## team composition
 
@@ -16,11 +16,11 @@ each team is composed of 3 members. we can take 5 teams to the regional competit
 
 ## preparation
 
-please register on kattis: <https://open.kattis.com/> . there are great practice problem on that site. try them out!
+please register on kattis: <https://open.kattis.com/> . there are great practice problems on that site. try them out!
 
 i encourage frosh and sophomores to participate!!!! please do! you will help provide continuity to the team.
 
-next semester we plan on having a couple of solution sessions during the week lead by team trainers (students on the team), and a friday and/or saturday 3-5 hour competition every week. grades come first, so don't miss class to attend practice! you can drop an any session you would like.
+next semester we plan on having a couple of solution sessions during the week led by team trainers (students on the team), and a friday and/or saturday 3-5 hour competition every week. grades come first, so don't miss class to attend practice! you can drop in on any session you would like.
 
 if after reading all this, you are still interested. please join the SJSU Competitive Programming discord group where we coordinate practices and meetings. you can also drop by my office to find out more.
 

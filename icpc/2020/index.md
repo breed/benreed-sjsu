@@ -32,7 +32,7 @@ we sent 5 teams to the 2020 ICPC programming competition. because of COVID, the 
 </div>
 </div>
 
-### Pandamonium (23th out of 44)
+### Pandamonium (23rd out of 44)
 
 <div class="team">
 <div class="member">

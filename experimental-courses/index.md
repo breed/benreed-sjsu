@@ -10,7 +10,7 @@ Here are the current experimental courses that i will be teaching:
 
 ### CS 85A: Applied Algorithms I
 
-A 1 unit Credit/No Credit class meeting once a week for 50 mins to practice applying to concepts from 46B to solve problems. We will be doing a new problem each week. All solutions will be implemented in Java.The course is designed both for students who are still not comfortable programming and for students who want to hone their programming skills. For more details, [check out the syllabus](CS85A%20-%20applied%20algorithms.pdf). Taking this course along with CS 185A in the spring will count as one of your CS electives. [Check out the promotional video](https://youtu.be/kUk-dLUeKg8).
+A 1 unit Credit/No Credit class meeting once a week for 50 mins to practice applying to concepts from 46B to solve problems. We will be doing a new problem each week. All solutions will be implemented in Java. The course is designed both for students who are still not comfortable programming and for students who want to hone their programming skills. For more details, [check out the syllabus](CS85A%20-%20applied%20algorithms.pdf). Taking this course along with CS 185A in the spring will count as one of your CS electives. [Check out the promotional video](https://youtu.be/kUk-dLUeKg8).
 
 ### CS 185C: Distributed Systems
 
@@ -20,4 +20,4 @@ A 3 unit CS elective that introduces students to the world of distributed system
 
 ### CS 185A: Applied Algorithms II
 
-A 1 unit Credit/No Credit class meeting once a week for 50 mins to practice applying to concepts from CS 146 to solve problems. We will be doing a new problem each week. All solutions will be implemented in Java.The course is designed both for students who are still not comfortable programming and for students who want to hone their programming skills. For more details, [check out the syllabus](CS185A%20-%20applied%20algorithms%20II.docx.pdf). [The previous promotional video still applies!](https://youtu.be/2dpX72Mdvn4).
+A 1 unit Credit/No Credit class meeting once a week for 50 mins to practice applying to concepts from CS 146 to solve problems. We will be doing a new problem each week. All solutions will be implemented in Java. The course is designed both for students who are still not comfortable programming and for students who want to hone their programming skills. For more details, [check out the syllabus](CS185A%20-%20applied%20algorithms%20II.docx.pdf). [The previous promotional video still applies!](https://youtu.be/2dpX72Mdvn4).
