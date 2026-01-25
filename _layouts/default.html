@@ -10,7 +10,8 @@
 <body>
     <header>
         <div class="container">
-            <a href="https://www.sjsu.edu/cmpe/index.php" class="site-title">SUSU Computer Engineering</a>
+            <a href="https://www.sjsu.edu/cmpe/index.php" class="site-title">SJSU Computer Engineering</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
             <nav>
                 <a href="{{ '/' | relative_url }}">Home</a>
                 <a href="{{ '/icpc/' | relative_url }}">ICPC Team</a>
@@ -50,10 +51,10 @@
 
     <script>
         (function() {
+            // Font toggle
             const btn = document.getElementById('font-toggle');
             const body = document.body;
 
-            // Check localStorage for saved preference
             if (localStorage.getItem('awesomeFont') === 'true') {
                 body.classList.add('awesome-font');
                 btn.textContent = 'Boringize';
@@ -64,6 +65,14 @@
                 const isAwesome = body.classList.contains('awesome-font');
                 btn.textContent = isAwesome ? 'Boringize' : 'Awesomize';
                 localStorage.setItem('awesomeFont', isAwesome);
+            });
+
+            // Mobile nav toggle
+            const navToggle = document.querySelector('.nav-toggle');
+            const nav = document.querySelector('nav');
+
+            navToggle.addEventListener('click', function() {
+                nav.classList.toggle('active');
             });
         })();
     </script>
