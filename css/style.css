@@ -1,6 +1,15 @@
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700&display=swap');
 
+/* Dune Rise Font */
+@font-face {
+    font-family: 'Dune Rise';
+    src: url('../fonts/Dune_Rise.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 /* Reset and Base */
 * {
@@ -99,7 +108,7 @@ nav a:hover {
 
 /* Awesome Font Mode */
 body.awesome-font {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Dune Rise', sans-serif;
 }
 
 body.awesome-font h1,
@@ -109,7 +118,7 @@ body.awesome-font h4,
 body.awesome-font .site-title,
 body.awesome-font nav a,
 body.awesome-font .font-toggle-btn {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Dune Rise', sans-serif;
 }
 
 /* Hero Section */
