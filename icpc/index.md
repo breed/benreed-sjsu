@@ -27,3 +27,5 @@ if after reading all this, you are still interested. please join the SJSU Compet
 ## sponsorship
 
 in previous years, we were very grateful to have the support of [Dell Technologies](https://www.delltechnologies.com), who have generously provided financial support for the teams expenses. we are currently looking for sponsors for the team. we need $3000 for travel, team hoodies, and practice pizza.
+
+if you would like to help out with the team please consider donating to the [Systems for the Benefit of Humanity account](https://www.givecampus.com/campaigns/67453/donations/new?designation=systemsforthebenefitofhumanity&?a=11421502) which funds our teams activities.
