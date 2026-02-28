@@ -12,9 +12,9 @@ mastodon_feed: true
 sometimes i find that the textbook i'm using doesn't have the coverage of the material i want to go over in class, so i write some additional chapters.
 here are the chapters i have so far.
 
-## extra C++23 chapters
+## extra C++23 chapters {#c++23}
 
-## extra C for C++ programmers chapter.
+## extra C for C++ programmers chapter. {#c4c++}
 
 this comes at the end of the C++ class and my favorite C text `The C Programming Language` is a little overkill
 
