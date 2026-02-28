@@ -15,7 +15,7 @@ here are the chapters i have so far.
 <a id=cpp23>
 ## extra C++23 chapters
 
-<a id="c4cpp"/>>
+<a id="c4cpp"/>
 ## extra C for C++ programmers chapter.
 
 this comes at the end of the C++ class and my favorite C text `The C Programming Language` is a little overkill
@@ -23,3 +23,4 @@ this comes at the end of the C++ class and my favorite C text `The C Programming
 - [C for C++ Programmers](c4c++.pdf) the chapters
 - [C for C++ Programmers Answers](c4c++-answers.pdf) the answers to exercises from in the chapters. (don't read until you've come up with your own answers ;) )
 
+<div style="height: 100vh;"></div>
