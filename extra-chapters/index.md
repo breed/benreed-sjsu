@@ -19,6 +19,7 @@ supplemental material for CMPE 30
 
 - [Numbers in C++](numbers.pdf) reviews different ways to represent and convert numbers.
 - [Operators in C++](operators.pdf) reviews how operators are used and precedence of the operators.
+- [Cheet Sheet](cheetsheet.pdf) A summary of everything we are going to learn on as few pages as possible.
 
 <a id="c4cpp" />
 ## extra C for C++ programmers chapter.
