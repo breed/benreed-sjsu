@@ -6,11 +6,13 @@ page_title: 2025 SJSU competitive programming team
 
 we sent 6 teams to the 2025 ICPC programming competition. the 6 teams to represent SJSU were chosen by qualifying individually in the 2025 ICPC NAQ (took the top 18 SJSU competitors).
 
+we got to National American Championship (NAC) this year and received **Honors** for 27/52! thank you **TEA time**!
+
 team trainers: Eliot Hall and Aarya Chamkeri
 
 ## division 1 teams
 
-### ![team photo](tea.jpg){: .team-photo}<br>6th/69 TEA time (Going to Nationals!)
+### ![team photo](tea.jpg){: .team-photo}<br>6th/69 TEA time (Honors at Nationals!)
 
 <div class="team">
 <div class="member">

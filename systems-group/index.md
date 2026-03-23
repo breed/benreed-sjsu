@@ -10,13 +10,9 @@ i highly recommend watching this video from julia evans (that i found on mastodo
 
 ## future projects (love to find people interested in)
 
+
+
 ## actively looking for people
-
-### wildfire storage management
-
-<https://github.com/SJSU-CS-systems-group/wildstore>
-
-we developed a tool to crawl our scientific datafiles NetCDF and share them with external researchers. looking for people interested in SpringBoot, storage, and security.
 
 ### disconnected data distribution
 
@@ -24,13 +20,11 @@ we developed a tool to crawl our scientific datafiles NetCDF and share them with
 
 we live in a connected world, and we have come to count on connectivity to do even the most basic things in life. unfortunately, much of the world lacks connectivity. even in locations with good connectivity, natural disasters can knock out critical infrastructure. this project explores how to use intermittently connected transports to provide needed data connectivity. this project helps students gain experience in network protocols and file formats.
 
-### java based mastodon server
-
-<https://github.com/SJSU-CS-systems-group/moth>
-
-we are implementing a java based (spring boot) mastodon server that is compatible with mastodon clients. the mastodon server is written in ruby, which students aren't familiar with. by implementing the server in java, we can do future research project with mastodon in a familiar environment.
-
 ## paused
+
+## wrapping up
+
+### java based mastodon server
 
 ### canvas integration tools
 
@@ -40,7 +34,17 @@ we are implementing a java based (spring boot) mastodon server that is compatibl
 
 tools for helping to manage courses in Canvas. CodEval gives students immediate feedback on their submissions. [text2qti](https://github.com/gpoore/text2qti) is an excellent tool for generating Canvas exams. we need to extend it to generate paper exams from the same spec.
 
-## wrapping up
+<https://github.com/SJSU-CS-systems-group/moth>
+
+we are implementing a java based (spring boot) mastodon server that is compatible with mastodon clients. the mastodon server is written in ruby, which students aren't familiar with. by implementing the server in java, we can do future research project with mastodon in a familiar environment.
+
+### wildfire storage management
+
+<https://github.com/SJSU-CS-systems-group/wildstore>
+
+we developed a tool to crawl our scientific datafiles NetCDF and share them with external researchers. looking for people interested in SpringBoot, storage, and security.
+
+## finished
 
 ### write-ahead transaction log performance
 
@@ -49,8 +53,6 @@ write-ahead logs are key to the reliability of data management systems. they are
 ### ZooKeeper historical performance
 
 this project tracks the performance of ZooKeeper over time. we use a local cluster made up of raspberry pis and intel servers to run benchmarks. this project helps students gain experience in distributed systems and performance analysis.
-
-## finished
 
 ### realtime linux on pi's to drive 3D printers
 
