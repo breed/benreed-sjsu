@@ -26,7 +26,7 @@ supplemental material for CMPE 30
 
 this comes at the end of the C++ class and my favorite C text `The C Programming Language` is a little overkill
 
-- [C for C++ Programmers](c4c++.pdf) fundamentals of C especially where it differs from C++.
-- [C for C++ Programmers Answers](c4c++-answers.pdf) the answers to exercises from in the chapters. (don't read until you've come up with your own answers ;) )
+- [C for C++ Programmers](c4c++/c4c++.pdf) fundamentals of C especially where it differs from C++.
+- [C for C++ Chapters](c4c++) individual chapters and answers to exercises. (don't read until you've come up with your own answers ;) )
 
 <div style="height: 100vh;"></div>
