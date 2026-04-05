@@ -29,4 +29,18 @@ this comes at the end of the C++ class and my favorite C text `The C Programming
 - [C for C++ Programmers](c4c++/c4c++.pdf) fundamentals of C especially where it differs from C++.
 - [C for C++ Chapters](c4c++) individual chapters and answers to exercises. (don't read until you've come up with your own answers ;) )
 
+<a id="scpp" />
+## Starting C++
+
+<div style="display: flex; gap: 1em;">
+  <img src="images/c++books++.png" alt="C++ books">
+  <img src="images/mehc++book.png" alt="meh C++ book">
+</div>
+
+an introduction to C++ book to be used in a first programming course in college.
+it is currently in draft stage, but by making it opensource and iterating, hopefull we can take it from mid to rad.
+
+- [Staring with C++](sc++/sc++.pdf) an introduction to programming using C++
+- [Starting with C++ Chapters](sc++) individual chapters and answers to excercises.
+
 <div style="height: 100vh;"></div>
