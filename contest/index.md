@@ -15,7 +15,7 @@ we follow roughly the ICPC style competition. contestants work in teams of 3. we
 
 the ICPC competition is for students early in their academic careers (first 4 or 5 years). You must have started your post high school education after 2021 or born after 2002 to be eligible to particpate.
 
-YOU MUST BE REGISTERED BY NOON APRIL 18th. each team member must register using https://forms.gle/bwzvsUPf3zc6FAqC7
+YOU MUST BE REGISTERED BY NOON APRIL 18th. each team member must register using [https://forms.gle/bwzvsUPf3zc6FAqC7](https://forms.gle/bwzvsUPf3zc6FAqC7)
 
 # contest rules
 
