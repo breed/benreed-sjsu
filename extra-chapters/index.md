@@ -9,5 +9,5 @@ mastodon_feed: true
 
 # extra text
 
-i've moved all my extra text to [https://gorgo.dev/cpp](https://gorgo.dev/cpp)
+i've moved all my extra text to [https://gorgo.dev](https://gorgo.dev)
 
