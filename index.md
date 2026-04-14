@@ -47,7 +47,10 @@ you can also watch [some videos that i have found interesting in terms of operat
 * tues: 1-4
 * fri: 10-4
 
-<iframe src="https://procpatrol.live/embed/1bc7d053-b031-4f83-b4b5-fcce2a278df2" width="400" height="200" frameborder="0"></iframe>
+### Status of code submission evaluators
+<iframe src="https://procpatrol.live/embed/a582f3ee-6242-48d7-9263-6a614f737fc2" width="400" height="200" frameborder="0"></iframe>
+<iframe src="https://procpatrol.live/embed/3246a63d-e4ee-4ac2-94a3-67b5df9a165e" width="400" height="200" frameborder="0"></iframe>
+<iframe src="https://procpatrol.live/embed/24886262-aff5-417b-a8fd-76b39865f624" width="400" height="200" frameborder="0"></iframe>
 
 ## Social Media
 
