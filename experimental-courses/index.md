@@ -20,7 +20,7 @@ Hands-on projects using industry best practices, RPC frameworks, and observabili
 **Note: there are a couple of different CMPE 189 courses this fall.
 look for the one taught by ben reed MW 1:30 for SRE. (the other one looks cool too ;)**
 
-[here is the syllabus](CMP189-FA26.pdf)
+[here is the syllabus](CMPE189-FA26.pdf)
 
 ## Spring 2023
 
