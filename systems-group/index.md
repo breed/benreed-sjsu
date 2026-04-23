@@ -10,7 +10,24 @@ i highly recommend watching this video from julia evans (that i found on mastodo
 
 ## future projects (love to find people interested in)
 
+these would be great capstone projects.
 
+### pi server
+
+i have almost 100 pis and a few POE switches.
+it would be awesome to have a pi server that allows people to allocate a pi, image it, and use it as a server that they can ssh into and work on.
+need to design a root booting strategy and a strategy for managing user specific storage so that pis aren't pinned to a user.
+
+### click for bash
+
+python click is awesome for creating nice commandlines.
+we can use exec and #! to create a wrapper to:
+
+- put help text in the leading comments
+- do argument and option processing as specified in comments
+- set environment variables or format invocation arguments to invoke the script or command being wrapped
+
+this wrapper would be implemented in rust
 
 ## actively looking for people
 
