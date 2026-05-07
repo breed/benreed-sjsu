@@ -39,13 +39,12 @@ you can also watch [some videos that i have found interesting in terms of operat
 
 ### Office hours
 
-* mon,wed: 1:30-2:30
-* tues: 3-4:15
+these are the final office hours of spring 2026:
 
-### systems research lab hours (in ENG 278 starting Jan 29th)
-
-* tues: 1-4
-* fri: 10-4
+* monday, may 11: 1:30-2:30
+* thursday, may 14: 3-5
+* monday, may 18: 2-3
+* wednesday, may 20: 11-12
 
 ### Status of code submission evaluators
 <iframe src="https://procpatrol.live/embed/a582f3ee-6242-48d7-9263-6a614f737fc2" width="400" height="200" frameborder="0"></iframe>
