@@ -90,10 +90,18 @@
 
 8. **stay healthy!**
    if you get sick, you miss class and you get behind on assignments.
-   a kind instructor will push deadlines for you, but midterms, finals, and the end of semester are dates that are immovable.
+   mental health issues or severe illness in the family can take you away from school.
+   SJSU recognizes the importance of taking care of yourself and provides ways to do late drops of classes for medical reasons --- take advantage of them if you need to.
+   a kind instructor will push deadlines for you, but the end of semester cannot be pushed.
+   i would love to be able to say "wow you passed through something terrible. i'll give you the knowledge without having to struggle."
+   --- i really would.
+   the best we can do is allow you to pass without learning the material, but that is detrimental to you and your career.
+   you can convince some instructors to do it --- i do not; it would not be doing you a favor.
+   if you need to, repeat the class; master the material.
+   
    it's a lot of work to catch up on class after you get sick --- to pass the class you have to have a level of mastery of the material.
    so, avoid getting sick.
-   "but someone gave me a virus" you say; "it's not my fault" you say.
+   "but someone gave me a virus" you say; "it's not my fault" you say; "i have kids!" --- been there; done that!
    that is all true, but there are things we can do to stay healthy: get sleep, find ways to relieve stress, eat healthy, wash your hands, remove habits like rubbing eyes and touching face, and get vaccinated.
    it's not going to guarantee that you don't get sick, but it will lower the probability.
    when you do get sick, take care of yourself to recover quickly, so that you can put in the work to catch up.
