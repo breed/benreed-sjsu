@@ -108,7 +108,7 @@
     the biggest reason i've heard for cheating is "i ran out of time", so follow the *start the assignment when you get it* rule.
 
 10. **prepare for senior project early!**
-    yeah i know, this is 10, but hey, off-by-one errors are our thing!
+    yeah i know, this is 11, but hey, off-by-one errors are our thing!
     engineering degrees give you a fantastic opportunity to do a senior project that highlights your skills.
     if done correctly, you will have something fantastic to discuss in your job interviews.
     to make that happen you will need a good group, a good topic, and a good advisor.
