@@ -54,7 +54,7 @@
 
    - long battery life (at least 10 hours)
    - USB-C charging --- everyone will have an adapter you can borrow if needed
-   - at least a 15" screen with 1080 resolution. if you want to get serious, there are great 15.6" external panels that make light second screens
+   - at least a 15" screen with 1080 resolution. if you want to get serious, there are great 15.6" external panels that make light second screens. [this one](https://www.amazon.com/dp/B07VFF4TZG) i got for less than $50
    - light weight --- you'll carry this thing with you everywhere
    - 16G memory at least --- some apps are going to use a lot of ram, especially if you are using a VM
    - 500G (preferably 1T) of storage. you're going to install a lot of stuff
