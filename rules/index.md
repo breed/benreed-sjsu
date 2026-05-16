@@ -1,5 +1,6 @@
 # the 10 golden rules for success as a CMPE student
 
+{:start="0"}
 0. **ask questions!**
    at SJSU you have professors who are experts in their domain.
    they also have a desire to share their knowledge with you.
