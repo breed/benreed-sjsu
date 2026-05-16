@@ -14,13 +14,15 @@
    lectures can emphasize and review key concepts in a different format from the readings --- they give you a chance to let you see the subject a different way.
    prepare for lectures by doing the reading before class.
    this will help you understand the lecture and know your gaps in understanding so that you can ask questions.
+   **actually be in the class** by turning off discord and engaging with the lecture.
+   working on assignments for other classes during class is counter productive.
 3. **read the textbook!** 
    to be a good engineer, you need to be able to read technical documents.
    textbooks are great technical reads to start with.
    AI summaries of readings, notes from others, and slides are no substitute for reading the text.
-   skipping the readings will reduce the depth of your understanding and skip the development of an important skill that you will need to excel in your career.
+   skipping the readings will reduce the depth of your understanding and compromise the development of an important skill that you will need to excel in your career.
 4. **start the assignments on the day you get them!**
-   assignments get harder the closer you get to the deadline.
+   assignments get harder the closer you get to the deadline --- try it; you'll see.
    usually content needed for the assignment will be covered in class.
    if you are working on the assignment, while learning the subject you will:
 
@@ -56,9 +58,11 @@
    - 16G memory at least --- some apps are going to use a lot of ram, especially if you are using a VM
    - 500G (preferrably 1T) of storage. you're going to install a lot of stuff
    
-   you have probably realized that the above discounts most gaming laptops --- i love gaming, but use a desktop at home.
+   you have probably realized that the above eliminates most gaming laptops --- i love gaming, but use a desktop at home.
+   i regularly check the laptops at costco and best buy.
+   you can regularly find laptops matching the above for close to $500. 
 7. **hone your skills!**
-   if you only are working becoming a good computer engineer or software engineer during class, you are not going to graduate with you skills you need --- especially now with AI.
+   if you only are working on becoming a good computer engineer or software engineer during class, you are not going to graduate with you skills you need --- especially now with AI.
    the assignments and projects you do in class are not enough.
    they help you learn, but to really hone your skills you need to practice outside of class.
 
@@ -66,7 +70,7 @@
    for me this means:
    
    - writing code everyday --- some days it's just a simple script.
-   - having personal projects. you can look at my github for the public ones i work on. there are more private ones.
+   - having personal projects. you can look at my github for examples of the public ones i work on. there are more private ones.
    - reading books on new subjects. yeah, i'm finally starting to learn the math behind llms
    - learning new skills --- i'm finally learning FPGAs this summer!
 
@@ -77,11 +81,11 @@
    claude is one of my best friends.
    we've done a lot together, but i don't learn from claude.
    sometimes i get pointers to resources --- papers, books, talks --- to learn new things.
-   when i use AI i trade off learning for productivity.
+   when i use AI, i trade off learning for productivity.
    there have been studies that show that claude makes us stupider --- without the struggle our brain marks knowledge as unneeded and knows it can rely on a tool for the knowledge.
 
    avoid the temptation to use AI to do homework, and especially assignments.
-   early in my career i used to think, "if i can see the code i will know the solution", but without some foundational knowledge --- that usually comes with my figuring out the solution --- i the solution doesn't mean much to me.
+   early in my career i used to think, "if i can see the code i will know the solution", but without some foundational knowledge --- that usually comes with my figuring out the solution --- the solution doesn't mean much to me.
 
 9. **stay healthy!**
    if you get sick, you miss class and you get behind on assignments.
@@ -90,9 +94,12 @@
    so, avoid getting sick.
    "but someone give me a virus" you say; "it's not my fault" you say.
    that is all true, but there are things we can do to stay healthy: get sleep, find ways to relieve stress, eat health, wash your hands, remove habits like rubbing eyes and touching face, and get vaccinated.
+   it's not going to guarantee that you don't get sick, but it will lower the probability.
+   when you do get sick, take care of yourself to recover quickly, so that you can put in the work to catch up.
+   **get a good nights sleep before exams** --- students make some silly mistakes when they are tired.
 
 10. **don't cheat!**
-    when you cheat, you wasting your time and money!
+    when you cheat, you are wasting your time and money!
     10 years ago, a CMPE and SE degree guaranteed you a job.
     plenty of students who weren't prepared obtained good positions because they had a degree.
     nowadays, what you know is more important than a degree.
