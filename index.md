@@ -43,8 +43,8 @@ these are the final office hours of spring 2026:
 
 * monday, may 11: 1:30-2:30
 * thursday, may 14: 3-5
-* monday, may 18: 2-3
-* wednesday, may 20: 11-12
+* monday, may 18: 2-3:30
+* wednesday, may 20: 10-12
 
 ### Status of code submission evaluators
 <iframe src="https://procpatrol.live/embed/a582f3ee-6242-48d7-9263-6a614f737fc2" width="400" height="200" frameborder="0"></iframe>
