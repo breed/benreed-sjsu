@@ -13,7 +13,7 @@ mastodon_feed: true
 
 **Prof Dude in Computer Engineering Department**
 
-i work in distributed systems, cloud, big data, networking, storage, and operating systems. i often get asked about [reading lists and blogs, so i started collecting some](distributed-systems/). i love working with grads/undergrads on projects in the area of operating systems and distributed systems. if you want to work with me, please watch [a great talk by remzi arpaci-dusseau given at ATC '19](https://www.usenix.org/conference/atc19/presentation/keynote). it has great advice for doing research. you can find out more information about projects that we are working on at [http://www.sjsu.edu/people/ben.reed/systems-group/](systems-group/) (i do not work with students during the summer. internships are too important. if you can't get an internship, try engaging with an open source project. both are more valuable to you than working with a professor during the summer.)
+i work in distributed systems, cloud, big data, networking, storage, and operating systems. i often get asked about [reading lists and blogs, so i started collecting some](distributed-systems/). i love working with grads/undergrads on projects in the area of operating systems and distributed systems. if you want to work with me, please watch [a great talk by remzi arpaci-dusseau given at ATC '19](https://www.usenix.org/conference/atc19/presentation/keynote). it has great advice for doing research. you can find out more information about projects that we are working on at [our systems group page](systems-group/) (i do not work with students during the summer. internships are too important. if you can't get an internship, try engaging with an open source project. both are more valuable to you than working with a professor during the summer.)
 i'm also looking for good (or want to be good) undergraduate programmers to participate [in our programming team](icpc/)!
 
 [checkout the experimental classes i have taught](experimental-courses/).
@@ -39,10 +39,10 @@ you can also watch [some videos that i have found interesting in terms of operat
 
 ### Office hours
 
-office hours of spring 2026 (starting 2026-08-19):
+office hours of fall 2026 (starting 2026-08-19):
 
 * monday, wednesday: 3-5PM
-* thursday, 10-12AM
+* thursday: 10-12AM
 
 ### Status of code submission evaluators
 <iframe src="https://procpatrol.live/embed/a582f3ee-6242-48d7-9263-6a614f737fc2" width="400" height="200" frameborder="0"></iframe>
