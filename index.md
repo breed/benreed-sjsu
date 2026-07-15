@@ -39,7 +39,7 @@ you can also watch [some videos that i have found interesting in terms of operat
 
 ### Office hours
 
-these are the final office hours of spring 2026 (starting 2026-08-19):
+office hours of spring 2026 (starting 2026-08-19):
 
 * monday, wednesday: 3-5PM
 * thursday, 10-12AM
