@@ -10,5 +10,6 @@ The domain of the page is ben.homeofcode.com
 
 # Content
 
-- the original content is from https://www.sjsu.edu/people/ben.reed/
-- preserve the original content exactly as it is
+- office hours
+- bio
+- projects

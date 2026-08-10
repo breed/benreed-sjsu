@@ -41,8 +41,8 @@ you can also watch [some videos that i have found interesting in terms of operat
 
 office hours of fall 2026 (starting 2026-08-19):
 
-* monday, wednesday: 3-5PM
-* thursday: 10-12AM
+* monday, wednesday: 3-4:30PM
+* thursday: 10-11:30AM
 
 ### Status of code submission evaluators
 <iframe src="https://procpatrol.live/embed/a582f3ee-6242-48d7-9263-6a614f737fc2" width="400" height="200" frameborder="0"></iframe>

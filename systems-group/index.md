@@ -29,6 +29,10 @@ we can use exec and #! to create a wrapper to:
 
 this wrapper would be implemented in rust
 
+### embedded control application using osdyne (rust)
+
+osdyne would like to do a project to show case their operating system running an embedded device like an arm (controling the servos directly) or components of a car such as dash or control components.
+
 ## actively looking for people
 
 ### disconnected data distribution
@@ -37,9 +41,7 @@ this wrapper would be implemented in rust
 
 we live in a connected world, and we have come to count on connectivity to do even the most basic things in life. unfortunately, much of the world lacks connectivity. even in locations with good connectivity, natural disasters can knock out critical infrastructure. this project explores how to use intermittently connected transports to provide needed data connectivity. this project helps students gain experience in network protocols and file formats.
 
-## paused
-
-## wrapping up
+## finished
 
 ### java based mastodon server
 
@@ -60,8 +62,6 @@ we are implementing a java based (spring boot) mastodon server that is compatibl
 <https://github.com/SJSU-CS-systems-group/wildstore>
 
 we developed a tool to crawl our scientific datafiles NetCDF and share them with external researchers. looking for people interested in SpringBoot, storage, and security.
-
-## finished
 
 ### write-ahead transaction log performance
 
