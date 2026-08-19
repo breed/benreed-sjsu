@@ -41,8 +41,9 @@ you can also watch [some videos that i have found interesting in terms of operat
 
 office hours of fall 2026 (starting 2026-08-19):
 
-* monday, wednesday: 3-4:30PM
-* thursday: 10-11:30AM
+* monday: 3-4:30PM
+* wednesday: 9-10AM
+* thursday: 10-12AM
 
 ### class hours
 
