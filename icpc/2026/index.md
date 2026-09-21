@@ -96,6 +96,8 @@ Join us for two upcoming contests to prepare for **ICPC on Saturday, November 14
 - **11:30 a.m.–12:15 p.m. — Warmup:** Practice the contest problem style and learn how to submit solutions.
 - **12:30–3:30 p.m. — Contest:** Put your problem-solving skills to the test and compete for cash prizes.
 
+**[Sign up for the local contest](https://docs.google.com/forms/d/e/1FAIpQLSecq9gb6HXNl9qTajww8ARN-jMKEYSIBr1czTQgWpl4_ZjW_g/viewform)**
+
 </section>
 
 <section class="icpc-2026-event" markdown="1">
