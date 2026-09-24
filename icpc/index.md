@@ -12,7 +12,7 @@ we also have yearly local contests [April 2026 local contest](../contest/).
 
 we are always recruiting new members! the key requirement is that you are an undergraduate.
 
-please join our discord https://discord.gg/cq3pvnxBg to find out about team practices and events.
+please **[join our discord](https://discord.gg/cq3pvnxBg)** to find out about team practices and events.
 
 ## team composition
 
