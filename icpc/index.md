@@ -12,6 +12,8 @@ we also have yearly local contests [April 2026 local contest](../contest/).
 
 we are always recruiting new members! the key requirement is that you are an undergraduate.
 
+please join our discord https://discord.gg/cq3pvnxBg to find out about team practices and events.
+
 ## team composition
 
 each team is composed of 3 members. we can take 5 teams to the regional competition. please check the [eligibility tree](https://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2018.pdf) to see if you can participate. **your major is NOT a factor in eligibility!**
