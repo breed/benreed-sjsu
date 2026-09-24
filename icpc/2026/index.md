@@ -87,6 +87,8 @@ title: SJSU ICPC 2026 — Upcoming Programming Contests
 
 Join us for two upcoming contests to prepare for **ICPC on Saturday, November 14, 2026**. All times below are **Pacific Time**.
 
+Questions, or want details about team meetings and practices? **[Join the SJSU competitive programming discord](https://discord.gg/cq3pvnxBg)**.
+
 <section class="icpc-2026-event" markdown="1">
 
 ## September 26 · Local contest
@@ -123,6 +125,7 @@ These contests will help you prepare for **Saturday, November 14, 2026**. **Only
   <div>
     <h2>Scan. Save. Share.</h2>
     <p>Keep the contest schedule handy and invite a friend.</p>
+    <p>Questions? <a href="https://discord.gg/cq3pvnxBg">Ask on our discord</a>.</p>
     <p><a href="https://ben.homeofcode.com/icpc/2026/">ben.homeofcode.com/icpc/2026/</a></p>
   </div>
 </aside>
