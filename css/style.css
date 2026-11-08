@@ -476,11 +476,11 @@ footer p {
 
 /* announcement banner */
 .banner {
-    background: #e8f1fa;
-    border-left: 5px solid #0055a2;
+    background: #fff4d6;
+    border: 2px solid #0055a2;
     padding: 0.75rem 1rem;
     margin: 0 0 1.5rem 0;
-    border-radius: 4px;
+    border-radius: 12px;
 }
 
 .banner a {
