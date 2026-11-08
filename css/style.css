@@ -473,3 +473,16 @@ footer p {
         padding: 40px 0;
     }
 }
+
+/* announcement banner */
+.banner {
+    background: #e8f1fa;
+    border-left: 5px solid #0055a2;
+    padding: 0.75rem 1rem;
+    margin: 0 0 1.5rem 0;
+    border-radius: 4px;
+}
+
+.banner a {
+    font-weight: bold;
+}
