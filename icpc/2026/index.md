@@ -4,13 +4,15 @@ title: 2026 SJSU competitive programming team
 page_title: 2026 SJSU competitive programming team
 ---
 
+![the 2026 SJSU ICPC teams on stage after the regional](sjsuteam2026.jpeg){: .team-photo}
+
 we sent 8 teams to the 2026 ICPC Pacific Northwest regional programming competition, which SJSU hosted this year: 5 teams in division 1 and 3 teams in division 2.
 
 we won the region this year! **TEA Time** took **1st place** out of 50 division 1 teams, solving 9 of the 13 problems. thank you **TEA Time**!
 
 ## division 1 teams
 
-### 1st/50 TEA Time (regional champions!)
+### ![team photo](tea-time.jpeg){: .team-photo}<br>1st/50 TEA Time (regional champions!)
 
 <div class="team">
 <div class="member">
