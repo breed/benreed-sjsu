@@ -10,6 +10,8 @@ we sent 8 teams to the 2026 ICPC Pacific Northwest regional programming competit
 
 we won the region this year! **TEA Time** took **1st place** out of 50 division 1 teams, solving 9 of the 13 problems. thank you **TEA Time**!
 
+team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjargal Ayurzana (Akiko)
+
 ## division 1 teams
 
 ### ![team photo](tea-time.jpeg){: .team-photo}<br>1st/50 TEA Time (regional champions!)
