@@ -96,15 +96,20 @@ team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjarg
 
 ## division 2 teams
 
-### 11th/74 [D2]2 (2nd place for California site)
+### ![team photo](d2-2.jpeg){: .team-photo}<br>11th/74 [D2]2 (2nd place for California site)
 
 <div class="team">
 <div class="member">
 <p><strong>Chahid Bagdouri</strong></p>
+<p>I'm Chahid, graduating with a B.S. in Computer Science in spring 2027. I enjoy competitive programming, math, and automation. I'm obsessed with understanding how things work, building useful things, and making a positive impact on my community.</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/chahid-bagdouri">https://www.linkedin.com/in/chahid-bagdouri</a><br>GitHub: <a href="https://github.com/ChahidBagdouri">https://github.com/ChahidBagdouri</a></p>
 </div>
 
 <div class="member">
 <p><strong>Isaiah Mak</strong></p>
+<p>3rd year Computer Science student, senior standing, specialization interest in theory (algorithms, math, constraint solving, optimization).</p>
+<p>Hobbies: running, video games, piano (in my ever fleeting free time)</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/isaiah-mak/">https://www.linkedin.com/in/isaiah-mak/</a><br>GitHub: <a href="http://github.com/ShinyRayquay">http://github.com/ShinyRayquay</a></p>
 </div>
 
 <div class="member">
