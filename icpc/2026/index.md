@@ -73,9 +73,6 @@ team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjarg
 <p><strong>Aidan Spies</strong></p>
 </div>
 
-<div class="member">
-<p><strong>Jacob Velasquez</strong></p>
-</div>
 </div>
 
 ### 36th/50 SJSU.Lil Sammy
