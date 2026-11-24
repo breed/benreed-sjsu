@@ -18,7 +18,10 @@ team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjarg
 
 <div class="team">
 <div class="member">
+<img class="member-photo" src="eliot.jpeg" alt="eliot hall">
 <p><strong>Eliot Hall</strong></p>
+<p>I'm Eliot Hall, an elderly senior here at SJSU studying Computer Science. When I'm not studying, I enjoy figure skating, ballroom partner dance, piano, cooking, and a little bit of competitive programming! Just a little bit :&gt;</p>
+<p>Linkedin: <a href="https://www.linkedin.com/in/christopher-eliot-hall/">https://www.linkedin.com/in/christopher-eliot-hall/</a></p>
 </div>
 
 <div class="member">
@@ -62,7 +65,7 @@ team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjarg
 </div>
 </div>
 
-### 31st/50 whoami
+### ![team photo](whoami.jpeg){: .team-photo}<br>31st/50 whoami
 
 <div class="team">
 <div class="member">
@@ -70,7 +73,10 @@ team trainers: Eliot Hall, Aarya Chamkeri, Noah Ruderman, Curtis Zhang, Amarjarg
 </div>
 
 <div class="member">
+<img class="member-photo" src="aidan.jpeg" alt="aidan spies">
 <p><strong>Aidan Spies</strong></p>
+<p>Hi! I'm Aidan Spies, a third-year Computer Science student here at SJSU. I enjoy playing sports, listening to music, goofing off with friends, and competitive programming (often several at the same time).</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/aidanspies/">https://www.linkedin.com/in/aidanspies/</a><br>GitHub: <a href="https://github.com/aspies06">https://github.com/aspies06</a></p>
 </div>
 
 </div>
